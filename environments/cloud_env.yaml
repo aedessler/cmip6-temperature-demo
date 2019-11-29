@@ -102,6 +102,8 @@ dependencies:
   - utide
   - xlrd
   - xmitgcm>=0.4.1
+  # added by aed 191129
+  - nc-time-axis
   - pip:
     - git+https://github.com/ian-r-rose/dask-labextension.git@de-asyncify#egg=dask_labextension
     - git+https://github.com/jbusecke/xgcm.git@jbusecke_weighted_average_and_cumsum
